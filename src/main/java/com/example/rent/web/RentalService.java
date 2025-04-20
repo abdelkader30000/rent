@@ -25,7 +25,7 @@ public class RentalService {
 
     @GetMapping("/bonjour")
     public String disBonjour(){
-        return "Bonjour test_here 2";
+        return "Bonjour test_here 3";
     }
 
     @GetMapping("/cars")
